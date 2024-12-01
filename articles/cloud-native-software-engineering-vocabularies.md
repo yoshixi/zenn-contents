@@ -1,10 +1,13 @@
 ---
-title: ""
+title: "Cloud Native Vocabularies"
 emoji: "🕌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
 published: false
 ---
+
+I'll introduce vocabularies related to cloud native era's software engineering. My motivation is I recently am hearing these words and I get what i meaned from the context. It would not get matters when I'm just one of developers but it could get necessary to explain the details to the team. It's time to organize the words I understand ambiguously.
+
 
 Cloud Architectures
 Redundancy
